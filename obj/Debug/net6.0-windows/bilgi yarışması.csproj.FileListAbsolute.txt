@@ -1,0 +1,17 @@
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\bin\Debug\net6.0-windows\bilgi yarışması.exe
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\bin\Debug\net6.0-windows\bilgi yarışması.deps.json
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\bin\Debug\net6.0-windows\bilgi yarışması.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\bin\Debug\net6.0-windows\bilgi yarışması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\bin\Debug\net6.0-windows\bilgi yarışması.pdb
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi_yarışması.Form1.resources
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\refint\bilgi yarışması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.pdb
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\bilgi yarışması.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\bilgi yarışması\obj\Debug\net6.0-windows\ref\bilgi yarışması.dll
